@@ -5,7 +5,7 @@ title: "Cluster vs Grid Computing: Homogeneidade, Heterogeneidade e Trade-offs"
 
 ## Fundamento Arquitetural: Homogeneidade vs. Heterogeneidade
 
-Cluster Computing é fundamentado na **homogeneidade**. Como descrito nos textos, seus nós compartilham hardware similar, o mesmo sistema operacional e estão interconectados por uma rede local de alta velocidade. Essa característica permite que o sistema seja tratado como uma **unidade coesa**, com um middleware enxuto focado em orquestração e comunicação eficiente, como exemplificado pelos clusters Beowulf.
+Cluster Computing é fundamentado na **homogeneidade**. Como descrito no *Livro do Tanenbaum*, item 1.3.1 (página 32), seus nós compartilham hardware similar, o mesmo sistema operacional e estão interconectados por uma rede local de alta velocidade. Essa característica permite que o sistema seja tratado como uma **unidade coesa**, com um middleware enxuto focado em orquestração e comunicação eficiente, como exemplificado pelos clusters Beowulf.
 
 Em contraste, Grid Computing é construído sobre a **heterogeneidade**. Ele integra recursos de diferentes domínios administrativos, com hardware diverso, sistemas operacionais distintos e redes heterogêneas. Essa diversidade exige uma **camada de abstração robusta** para permitir interoperabilidade, realizada por meio de Organizações Virtuais (VOs) que federam recursos diversos.
 
