@@ -1,2 +1,6 @@
 title: Artur Cremonez
 theme: minima
+url: "https://arturcremonez.github.io"
+baseurl: ""
+plugins:
+  - jekyll-sitemap
