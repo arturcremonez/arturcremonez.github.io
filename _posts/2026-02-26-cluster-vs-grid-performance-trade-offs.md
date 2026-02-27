@@ -2,8 +2,8 @@
 layout: post
 title: "Cluster vs Grid Computing: Entenda os Trade-offs de Performance"
 description: "Uma análise técnica sobre as diferenças entre Cluster e Grid Computing, focando em homogeneidade, serialização e os trade-offs de performance."
-categories: [Sistemas Distribuídos, Arquitetura]
-tags: [Cluster, Grid, Tanenbaum, Middleware]
+categories: [sistemas-distribuidos, arquitetura]
+tags: [cluster, grid, tanenbaum, middleware]
 ---
 
 ## Fundamento Arquitetural: Homogeneidade vs. Heterogeneidade

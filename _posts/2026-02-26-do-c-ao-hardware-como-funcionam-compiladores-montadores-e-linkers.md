@@ -2,8 +2,8 @@
 layout: post
 title: "Do C ao Hardware: Como funcionam Compiladores, Montadores e Linkers"
 description: "Entenda o fluxo de transformação do código C até a execução no hardware, detalhando o papel do compilador, montador, linker e a arquitetura MIPS."
-categories: [Arquitetura de Computadores, Sistemas]
-tags: [C, MIPS, Compiladores, Linker, Montador]
+categories: [arquitetura-de-computadores, sistemas]
+tags: [c, mips, compiladores, linker, montador]
 ---
 
 ## Como montadores e linkers surgem?
