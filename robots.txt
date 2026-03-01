@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://arturcremonez.github.io
+Sitemap: https://arturcremonez.github.io/sitemap.xml
