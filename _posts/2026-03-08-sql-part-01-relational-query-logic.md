@@ -7,7 +7,14 @@ tags: [sql, álgebra-relacional, banco-de-dados, tutorial]
 author: "Artur Cremonez"
 ---
 
-# Introdução
+### Índice
+
+- [Introdução](#introducao)
+- [Tese: Análise da tabela individual](#tese)
+- [Antítese: Análise das Tabelas](#antitese)
+- [Síntese: Conclusão](#sintese)
+
+# Introdução {#introducao}
 
 Para entender **bancos de dados relacionais**, podemos começar pela forma mais simples de representar os dados: **uma tabela**.
 
@@ -27,7 +34,7 @@ Neste texto, vamos explorar algumas das operações fundamentais que uma linguag
 
 ---
 
-# Tese: Análise da tabela individual
+# Tese: Análise da tabela individual {#tese}
 
 Vamos começar analisando o caso mais simples: uma tabela individual.
 - Em relação às **colunas**, para consultas é necessário **reduzir as colunas**, retornando uma tabela que **exclui determinadas colunas**.
@@ -319,7 +326,7 @@ LIMIT n
 Como uma operação dependente de outra que não possui correspondente na Álgebra Relacional (`ORDER BY`), já podemos imaginar que não existe correspondente também para esta (`LIMIT n`).
 
 ---
-# Antítese: Análise das Tabelas
+# Antítese: Análise das Tabelas {#antitese}
 
 Terminamos a análise da **tabela individual**, mas e quando trabalhamos com **tabelas em relação com outras tabelas**? Será que a lógica apresentada até agora se mantém?
 
@@ -449,7 +456,7 @@ ON A.chave_primaria = B.chave_estrangeira;
 
 ---
 
-# Síntese: Conclusão
+# Síntese: Conclusão {#sintese}
 
 Analisando a tabela como conjunto, percebemos que a tabela, na perspectiva da Álgebra Relacional, sempre foi conjunto de tuplas. Mesmo para os operadores provenientes da análise da tabela individual, percebemos que esses operadores podem ser vistos como operações realizadas em um conjunto.
 
