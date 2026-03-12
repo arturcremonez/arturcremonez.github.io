@@ -1,8 +1,15 @@
 title: Artur Cremonez
-description: "Ciência da Computação. Notas de estudo."
 theme: minima
 google_analytics: G-V21L7J459R
 url: "https://arturcremonez.github.io"
 baseurl: ""
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
+collections:
+  projects_en:
+    output: true
+    permalink: /:name/
+  projects_pt:
+    output: true
+    permalink: /pt/:name/
