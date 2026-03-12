@@ -1,18 +1,22 @@
 ---
 layout: page
-title: Perfil e Contato
+title: Profile & Contact
+permalink: /profile/
 ---
 
-### Perfil
-Estudante de Ciência da Computação na Universidade Estadual de Londrina (UEL). Busco aprender a fundo e estruturar o conhecimento sob a minha própria ótica. Mantenho este blog para documentar minha visão sobre fundamentos e projetos de programação, utilizando o espaço para consolidar a base teórica e a lógica aplicada.
+### Profile
+Computer Science student at the State University of Londrina (UEL). I seek to deeply understand and structure knowledge through my own perspective. I maintain this blog to document my vision on programming foundations and projects, using this space to consolidate both theoretical basis and applied logic.
 
-Atualmente na fase final do curso, utilizo este repositório como um registro técnico da minha trajetória e compreensão sobre os desafios da computação.
+Currently in the final stages of my degree, I use this repository as a technical record of my journey and my understanding of computing challenges.
 
 ---
 
-### Contato
-Estou aberto a conexões profissionais, propostas de estágio e colaborações em projetos que envolvam os fundamentos e o desenvolvimento de software.
+### Contact
+I am open to professional connections, internship opportunities, and project collaborations involving software fundamentals and development.
 
-* **E-mail:** [arturcremonez@gmail.com](mailto:arturcremonez@gmail.com)
-* **LinkedIn:** [/in/arturcremonez](https://www.linkedin.com/in/arturcremonez)
-* **GitHub:** [/arturcremonez](https://github.com/arturcremonez)
+* **Email:** [arturcremonez@gmail.com](mailto:arturcremonez@gmail.com)
+* **LinkedIn:** [linkedin.com/in/arturcremonez](https://www.linkedin.com/in/arturcremonez)
+* **GitHub:** [github.com/arturcremonez](https://github.com/arturcremonez)
+
+---
+[Back to Home]({{ "/" | relative_url }})
