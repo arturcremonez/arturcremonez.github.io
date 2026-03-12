@@ -1,8 +1,19 @@
 ---
-layout: default
-title: Posts
+layout: page
+title: Home
+permalink: /
 ---
 
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
+### [Profile & Contact]({{ "/profile/" | relative_url }})
+
+---
+
+### Areas of Study
+
+* [**Database**]({{ "/database/" | relative_url }})
+* [**Distributed Systems**]({{ "/distributed-systems/" | relative_url }})
+* [**Compilers**]({{ "/compilers/" | relative_url }})
+
+---
+
+[Versão em Português]({{ "/pt/" | relative_url }})
