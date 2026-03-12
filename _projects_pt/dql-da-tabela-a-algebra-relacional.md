@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "SQL Parte 01: Desconstruindo a Lógica das Consultas Relacionais"
-description: "Exploração prática de SQL e álgebra relacional, conectando teoria e exemplos com SELECT, WHERE, GROUP BY e JOIN."
-categories: [banco-de-dados, sql, aprendizado]
-tags: [sql, álgebra-relacional, banco-de-dados, tutorial]
+title: "DQL: Da Tabela à Álgebra Relacional"
 author: "Artur Cremonez"
+description: "Um estudo sobre como a estrutura das tabelas impõe a necessidade de uma linguagem como o SQL e a utilização da Álgebra Relacional."
+category: banco-de-dados
+order: 1
+lang: pt
+redirect_from:
+  - /banco-de-dados/sql/aprendizado/2026/03/08/sql-part-01-relational-query-logic.html
 ---
 
 ### Índice
