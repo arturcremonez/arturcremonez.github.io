@@ -10,9 +10,11 @@ permalink: /
 
 ### Areas of Study
 
-* [**Database**]({{ "/database/" | relative_url }})
-* [**Distributed Systems**]({{ "/distributed-systems/" | relative_url }})
-* [**Compilers**]({{ "/compilers/" | relative_url }})
+* [Database]({{ "/database/" | relative_url }})
+
+* [Distributed Systems]({{ "/distributed-systems/" | relative_url }})
+
+* [Compilers]({{ "/compilers/" | relative_url }})
 
 ---
 
