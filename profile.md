@@ -2,6 +2,8 @@
 layout: page
 title: Profile & Contact
 permalink: /profile/
+redirect_from:
+  - /profile.html
 ---
 
 ### Profile
