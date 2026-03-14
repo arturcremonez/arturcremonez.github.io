@@ -10,11 +10,21 @@ permalink: /pt/
 
 # Áreas de Estudo
 
+**A abstração do hardware**
+
+* [Matemática Discreta e Finita]({{ "/pt/matematica-discreta/" | relative_url }})
+
+* [Análise e Projeto de Algoritmos]({{ "/pt/analise-projeto-algoritmos/" | relative_url }})
+
+* [Estrutura de Dados]({{ "/pt/estrutura-dados/" | relative_url }})
+
 * [Banco de Dados]({{ "/pt/banco-de-dados/" | relative_url }})
 
-* [Sistemas Distribuídos]({{ "/pt/sistemas-distribuidos/" | relative_url }})
+**Quando o hardware impõe limites**
 
-* [Compiladores]({{ "/pt/compiladores/" | relative_url }})
+* [Arquitetura de Computadores]({{ "/pt/arquitetura-computadores/" | relative_url }})
+
+* [Sistemas Distribuídos]({{ "/pt/sistemas-distribuidos/" | relative_url }})
 
 ---
 
