@@ -12,7 +12,7 @@ permalink: /pt/
 
 **A abstração do hardware**
 
-* [Matemática Discreta e Finita]({{ "/pt/matematica-discreta/" | relative_url }})
+* [Matemática Discreta e Finita]({{ "/pt/matematica-discreta-finita/" | relative_url }})
 
 * [Análise e Projeto de Algoritmos]({{ "/pt/analise-projeto-algoritmos/" | relative_url }})
 
