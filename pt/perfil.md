@@ -4,6 +4,7 @@ title: Perfil e Contato
 permalink: /pt/perfil/
 ---
 
+---
 ### Perfil
 Estudante de Ciência da Computação na Universidade Estadual de Londrina (UEL). Busco aprender a fundo e estruturar o conhecimento sob a minha própria ótica. Mantenho este blog para documentar minha visão sobre fundamentos e projetos de programação, utilizando o espaço para consolidar a base teórica e a lógica aplicada.
 
@@ -20,3 +21,4 @@ Estou aberto a conexões profissionais, propostas de estágio e colaborações e
 
 ---
 [Voltar para o Início]({{ "/pt/" | relative_url }})
+---

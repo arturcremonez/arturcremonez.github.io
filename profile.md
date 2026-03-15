@@ -6,6 +6,7 @@ redirect_from:
   - /profile.html
 ---
 
+---
 ### Profile
 Computer Science student at the State University of Londrina (UEL). I seek to deeply understand and structure knowledge through my own perspective. I maintain this blog to document my vision on programming foundations and projects, using this space to consolidate both theoretical basis and applied logic.
 
@@ -22,3 +23,4 @@ I am open to professional connections, internship opportunities, and project col
 
 ---
 [Back to Home]({{ "/" | relative_url }})
+---
