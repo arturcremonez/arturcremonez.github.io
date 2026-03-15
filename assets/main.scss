@@ -6,17 +6,36 @@
   display: none !important;
 }
 
-h2 {
-  font-size: 2.2rem !important;
-  color: #ff4500 !important;
-  border-bottom: 2px solid #ff4500 !important;
-  margin-top: 2rem !important;
-  display: block !important;
-}
+.post-content {
+  h2 {
+    font-size: 1.85rem !important;
+    margin-top: 2.8rem !important;
+    margin-bottom: 1.2rem !important;
+    border-bottom: 2px solid #eeeeee !important;
+    padding-bottom: 8px !important;
+    font-weight: 600 !important;
+    color: #111111 !important;
+    display: block !important;
+  }
 
-h3 {
-  font-size: 1.6rem !important;
-  color: #1e90ff !important;
-  margin-top: 1.5rem !important;
-  display: block !important;
+  h3 {
+    font-size: 1.4rem !important;
+    margin-top: 2.2rem !important;
+    margin-bottom: 1rem !important;
+    font-weight: 600 !important;
+    color: #444444 !important;
+    border-bottom: none !important;
+    display: block !important;
+  }
+
+  p {
+    margin-bottom: 1.5rem !important;
+    line-height: 1.75 !important;
+    color: #333 !important;
+  }
+
+  .highlight {
+    border-radius: 6px !important;
+    margin: 1.5rem 0 !important;
+  }
 }
