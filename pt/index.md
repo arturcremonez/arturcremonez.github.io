@@ -4,11 +4,17 @@ title: Início
 permalink: /pt/
 ---
 
-### [Perfil e Contato]({{ "/pt/perfil/" | relative_url }})
+---
+
+<div align="center">
+
+[Meu perfil e contato]({{ "/pt/perfil/" | relative_url }})
+
+</div>
 
 ---
 
-# Áreas de Estudo
+# Áreas de estudo
 
 **A abstração do hardware**
 
@@ -28,4 +34,10 @@ permalink: /pt/
 
 ---
 
-[English Version]({{ "/" | relative_url }})
+<div align="center">
+
+[English version]({{ "/" | relative_url }})
+
+</div>
+
+---
