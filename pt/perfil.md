@@ -20,7 +20,7 @@ Estou aberto a conexões profissionais, propostas de estágio e colaborações e
 * **GitHub:** [github.com/arturcremonez](https://github.com/arturcremonez)
 
 <div style="margin-top: 20px;">
-  <hr style="margin-bottom: 2px;">
+  <hr style="margin-bottom: 1px;">
   <a href="{{ '/pt/' | relative_url }}">Voltar ao início</a>
-  <hr style="margin-top: 2px; margin-bottom: 0;">
+  <hr style="margin-top: 1px; margin-bottom: 0;">
 </div>
