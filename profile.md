@@ -22,5 +22,4 @@ I am open to professional connections, internship opportunities, and project col
 * **GitHub:** [github.com/arturcremonez](https://github.com/arturcremonez)
 
 ---
-[Back to Home]({{ "/" | relative_url }})
----
+[Back to Home]({{ "/" | relative_url }})<hr>
