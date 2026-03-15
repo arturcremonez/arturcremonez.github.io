@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Compilers"
-permalink: /compilers/
+title: "Computer Architecture"
+permalink: /computer-architecture/
 ---
 
 ---
@@ -9,7 +9,7 @@ permalink: /compilers/
 
 {% assign posts = site.projects_en | sort: "order" %}
 {% for post in posts %}
-  {% if post.category == "compilers" or post.category == "compiladores" %}
+  {% if post.category == "computer-architecture" or post.category == "arquitetura-computadores" %}
 * [{{ post.title }}]({{ post.url | relative_url }})
   {% endif %}
 {% endfor %}
