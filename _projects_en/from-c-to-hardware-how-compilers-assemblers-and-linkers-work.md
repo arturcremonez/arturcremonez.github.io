@@ -3,7 +3,7 @@ layout: post
 title: "From C to Hardware: How Compilers, Assemblers, and Linkers Work"
 author: "Artur Cremonez"
 description: "Understanding the transformation flow from C code to hardware execution."
-category: compilers
+category: computer-architecture
 order: 1
 lang: en
 ---
