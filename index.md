@@ -12,7 +12,7 @@ permalink: /
 
 ---
 
-### Areas of Study
+### Areas of study
 
 The hardware abstraction:
 * [Discrete and Finite Mathematics]({{ "/discrete-mathematics/" | relative_url }})
@@ -27,7 +27,7 @@ When hardware imposes limits:
 ---
 
 <div align="center">
-  <a href="{{ '/pt/' | relative_url }}">Versão em Português</a>
+  <a href="{{ '/pt/' | relative_url }}">Versão em português</a>
 </div>
 
 ---
