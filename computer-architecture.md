@@ -2,6 +2,8 @@
 layout: page
 title: "Computer Architecture"
 permalink: /computer-architecture/
+redirect_from:
+  - /compilers/
 ---
 
 ---
