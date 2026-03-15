@@ -7,9 +7,7 @@ permalink: /pt/
 ---
 
 <div align="center">
-
-[Meu perfil e contato]({{ "/pt/perfil/" | relative_url }})
-
+  <a href="{{ '/pt/perfil/' | relative_url }}">Meu perfil e contato</a>
 </div>
 
 ---
@@ -35,9 +33,7 @@ permalink: /pt/
 ---
 
 <div align="center">
-
-[English version]({{ "/" | relative_url }})
-
+  <a href="{{ '/' | relative_url }}">English version</a>
 </div>
 
 ---
