@@ -8,13 +8,23 @@ permalink: /
 
 ---
 
-### Areas of Study
+# Areas of Study
+
+**The hardware abstraction**
+
+* [Discrete and Finite Mathematics]({{ "/discrete-mathematics/" | relative_url }})
+
+* [Analysis and Design of Algorithms]({{ "/algorithm-design/" | relative_url }})
+
+* [Data Structures]({{ "/data-structures/" | relative_url }})
 
 * [Database]({{ "/database/" | relative_url }})
 
-* [Distributed Systems]({{ "/distributed-systems/" | relative_url }})
+**When hardware imposes limits**
 
-* [Compilers]({{ "/compilers/" | relative_url }})
+* [Computer Architecture]({{ "/computer-architecture/" | relative_url }})
+
+* [Distributed Systems]({{ "/distributed-systems/" | relative_url }})
 
 ---
 
