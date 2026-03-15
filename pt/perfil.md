@@ -21,4 +21,4 @@ Estou aberto a conexões profissionais, propostas de estágio e colaborações e
 
 ---
 [Voltar para o Início]({{ "/pt/" | relative_url }})
-<hr style="margin-bottom: 0;">
+<hr style="margin-top: 0;">

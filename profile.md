@@ -23,4 +23,4 @@ I am open to professional connections, internship opportunities, and project col
 
 ---
 [Back to Home]({{ "/" | relative_url }})
-<hr style="margin-bottom: 0;">
+<hr style="margin-top: 0;">
