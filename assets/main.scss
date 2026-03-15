@@ -7,33 +7,30 @@
 }
 
 .post {
-  
+  margin-top: 50px !important;
+
   h1, .post-title {
     font-size: 3.5rem !important; 
     line-height: 1.1 !important;
-    margin-bottom: 1.5rem !important;
+    margin-bottom: 1rem !important;
     display: block !important;
+    padding-top: 20px !important; 
   }
 
   h2 {
     font-size: 2.5rem !important;
-    margin-top: 3rem !important;
-    margin-bottom: 1.2rem !important;
+    margin-top: 3.5rem !important;
     display: block !important;
-    border-bottom: 1px solid #eee !important;
-    padding-bottom: 10px !important;
   }
 
   h3 {
     font-size: 1.5rem !important;
-    margin-top: 2.2rem !important;
-    margin-bottom: 1rem !important;
+    margin-top: 2.5rem !important;
     display: block !important;
   }
 }
 
 .post-content p {
-  font-size: 1.1rem !important;
+  font-size: 1.05rem !important;
   line-height: 1.75 !important;
-  color: #333 !important;
 }
