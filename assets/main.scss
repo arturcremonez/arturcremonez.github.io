@@ -9,21 +9,24 @@
 .post {
   margin-top: 50px !important;
 
+  /* H1 - Título Máximo */
   h1, .post-title {
     font-size: 3.5rem !important; 
     line-height: 1.1 !important;
-    margin-top: 4.5rem !important;
+    margin-top: 4.0rem !important;
     margin-bottom: 2rem !important;
     display: block !important;
   }
 
+  /* H2 - Seção Principal */
   h2 {
     font-size: 2.5rem !important;
-    margin-top: 3.5rem !important;
+    margin-top: 3.0rem !important;
     margin-bottom: 1.2rem !important;
     display: block !important;
   }
 
+  /* H3 - Subtópico */
   h3 {
     font-size: 1.5rem !important;
     margin-top: 2.5rem !important;
@@ -35,4 +38,5 @@
 .post-content p {
   font-size: 1.05rem !important;
   line-height: 1.75 !important;
+  color: #333 !important;
 }
