@@ -19,7 +19,7 @@ Estou aberto a conexões profissionais, propostas de estágio e colaborações e
 * **LinkedIn:** [linkedin.com/in/arturcremonez](https://www.linkedin.com/in/arturcremonez)
 * **GitHub:** [github.com/arturcremonez](https://github.com/arturcremonez)
 
-<div style="margin-top: 30px;">
+<div style="margin-top: 20px;">
   <hr style="margin-bottom: 5px;">
   <a href="{{ '/pt/' | relative_url }}">Voltar ao início</a>
   <hr style="margin-top: 5px; margin-bottom: 0;">
