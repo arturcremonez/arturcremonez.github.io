@@ -1,0 +1,9 @@
+<header class="site-header">
+  <div class="wrapper">
+    {%- if page.url contains '/pt/' -%}
+      <a class="site-title" rel="author" href="{{ '/pt/' | relative_url }}">Artur Cremonez</a>
+    {%- else -%}
+      <a class="site-title" rel="author" href="{{ '/' | relative_url }}">Artur Cremonez</a>
+    {%- endif -%}
+  </div>
+</header>
