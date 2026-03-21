@@ -3,7 +3,7 @@ layout: post
 title: "Unidade: Matemática Discreta, Algoritmos e Estruturas de Dados"
 author: "Artur Cremonez"
 description: "Explora como demonstrações matemáticas geram paradigmas de programação que conduzem a estruturas de dados."
-categories: [matematica-discreta-finita]
+category: matematica-discreta-finita
 order: 1
 lang: pt
 ---
