@@ -9,7 +9,7 @@ permalink: /pt/analise-projeto-algoritmos/
 
 {% assign posts = site.projects_pt | sort: "order" %}
 {% for post in posts %}
-  {% if post.category == "algorithm-design" or post.category == "analise-projeto-algoritmos" %}
+  {% if post.category == "analise-projeto-algoritmos" or post.categories contains "analise-projeto-algoritmos" or post.category == "algorithm-design" %}
 * [{{ post.title }}]({{ post.url | relative_url }})
   {% endif %}
 {% endfor %}

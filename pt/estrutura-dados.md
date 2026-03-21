@@ -9,7 +9,7 @@ permalink: /pt/estrutura-dados/
 
 {% assign posts = site.projects_pt | sort: "order" %}
 {% for post in posts %}
-  {% if post.category == "data-structures" or post.category == "estrutura-dados" %}
+  {% if post.categories contains "estrutura-dados" or post.category == "estrutura-dados" %}
 * [{{ post.title }}]({{ post.url | relative_url }})
   {% endif %}
 {% endfor %}
