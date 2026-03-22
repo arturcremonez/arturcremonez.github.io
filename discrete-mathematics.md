@@ -9,7 +9,7 @@ permalink: /discrete-mathematics/
 
 {% assign posts = site.projects_en | sort: "order" %}
 {% for post in posts %}
-  {% if post.category == "discrete-mathematics" or post.category == "matematica-discreta-finita" %}
+  {% if post.categories contains "discrete-math" or post.category == "discrete-math" or post.categories contains "matematica-discreta-finita" or post.category == "discrete-mathematics" %}
 * [{{ post.title }}]({{ post.url | relative_url }})
   {% endif %}
 {% endfor %}
