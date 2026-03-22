@@ -10,4 +10,4 @@ lang: en
 
 The English version of this article is currently under documentation. 
 
-For the full technical analysis, please refer to the [Portuguese version](/pt/unity-discrete-mathematics-algorithms-data-structures/).
+For the full technical analysis, please refer to the [Portuguese version](/pt/unidade-matematica-discreta-projeto-algoritmos-estrutura-dados/).
